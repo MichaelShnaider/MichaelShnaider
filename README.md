@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 I'm **Michael Shnaider**, a passionate software engineer who loves building innovative solutions and enhancing user experiences. Welcome to my GitHub profile! Here's a bit about me:
 
@@ -9,12 +9,13 @@ I'm **Michael Shnaider**, a passionate software engineer who loves building inno
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/michaelshnaider) | mishnaid@uwaterloo.ca
 - ⚡ Fun fact: I love hackathons and have been to many, including Gift the Code and Hack the North.
 
-### Featured Projects 🚀
-Check out all my public projects at [MichaelShnaider.com](https://michaelshnaider.com).
+## Featured Projects 🚀
 
-#### [OpneSource Hackathon Proejct: CampQuality](https://github.com/MichaelShnaider/campquality)
+### Open Source
+#### [CampQuality](https://github.com/MichaelShnaider/campquality) (Hackathon Winner)
 🎗️ Camp Quality strives to provide empowering camp experiences for kids with cancer. Our philosophy is that together, we can do anything, be anything, and achieve everything. We have the power to turn life’s challenges into adventures. Read more at [campquality.org](http://campquality.org/).
 
+### Personal Projects
 #### [DevCertified](https://github.com/MichaelShnaider/DevCertified)
 💻 A Hackerrank/CoderPad clone
 - Engineered a dynamic, real-time code editor for conducting technical interviews, utilizing Next.JS.
@@ -26,5 +27,4 @@ Check out all my public projects at [MichaelShnaider.com](https://michaelshnaide
 - A platform to help students learn, memorize, and share their notes.
 - Built with React + Redux, Node, and Kubernetes.
 
-
-
+Check out all my public projects at [MichaelShnaider.com](https://michaelshnaider.com).
