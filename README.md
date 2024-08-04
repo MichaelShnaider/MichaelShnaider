@@ -12,7 +12,7 @@ I'm **Michael Shnaider**, a passionate software engineer who loves building inno
 ## Featured Projects 🚀
 
 ### Open Source
-#### [CampQuality Demo](https://campquality.michaelshnaider.com/) | [Github](https://github.com/MichaelShnaider/campquality) (Hackathon Winner)
+#### [CampQuality Demo](https://campquality.michaelshnaider.com/) | [Github](https://github.com/MichaelShnaider/campquality) - (Hackathon Winner)
 🎗️ Camp Quality strives to provide empowering camp experiences for kids with cancer. Our philosophy is that together, we can do anything, be anything, and achieve everything. We have the power to turn life’s challenges into adventures. Read more at [campquality.org](http://campquality.org/).
 
 ### Personal Projects
