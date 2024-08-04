@@ -16,13 +16,13 @@ I'm **Michael Shnaider**, a passionate software engineer who loves building inno
 🎗️ Camp Quality strives to provide empowering camp experiences for kids with cancer. Our philosophy is that together, we can do anything, be anything, and achieve everything. We have the power to turn life’s challenges into adventures. Read more at [campquality.org](http://campquality.org/).
 
 ### Personal Projects
-#### [DevCertified.com](https://github.com/MichaelShnaider/DevCertified)
+#### [DevCertified.com](https://devcertified.com/index.html)
 💻 A Hackerrank/CoderPad clone
 - Engineered a dynamic, real-time code editor for conducting technical interviews, utilizing Next.JS.
 - Included a custom-built, Docker-based code execution engine supporting multiple programming languages.
 - Integrated real-time collaborative editing with Monaco editor, powered by SocketIO.
 
-#### [MemorizeAnything.net](https://github.com/MichaelShnaider/MemorizeAnything)
+#### [MemorizeAnything.net](https://memorizeanything.net/)
 📝 A web-based Anki platform
 - A platform to help students learn, memorize, and share their notes.
 - Built with React + Redux, Node, and Kubernetes.
